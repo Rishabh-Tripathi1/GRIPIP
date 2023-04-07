@@ -1,3 +1,3 @@
-#GRIP Internship Program
+# GRIP Internship Program
 
-##Rishabh Tripathi
+## Rishabh Tripathi
